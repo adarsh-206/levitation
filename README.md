@@ -1,4 +1,4 @@
-# levitation
+# Levitation
 Frontend Internship - Assignment
 
 # Assignment 
