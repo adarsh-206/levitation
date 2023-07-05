@@ -1,7 +1,8 @@
 # levitation
 Frontend Internship - Assignment
 
-Assignment 
+# Assignment 
+
 Page 1 : Create a Login Page with Email field Validation and appropriate message for Login Failed and Success (Integrate API ). Upon Successful Login, Redirect User to Form Page.
 Page 2 : Create a Forgot Password page (No API Integration )
 Page 3 : (Only for Authenticated User, Integrate API) Create a functional Multi Step with Progress indicator. The form will contain 5 steps. The Five Steps will become your steps for the Progress bar.
